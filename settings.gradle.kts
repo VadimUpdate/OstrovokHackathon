@@ -1,1 +1,1 @@
-rootProject.name = "OstrovokClient"
+rootProject.name = "Admin-console"
